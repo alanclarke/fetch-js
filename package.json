@@ -1,0 +1,40 @@
+{
+  "name": "append-script",
+  "version": "0.0.1",
+  "description": "Reliably append scripts to pages and execute callbacks once evaluated",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "author": {
+    "name": "Alan Clarke",
+    "email": "alan@qubit.com",
+    "url": "qubit.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QubitProducts/append-script.git"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "cors": "^2.7.1",
+    "expect.js": "^0.3.1",
+    "express-cache-control": "^1.0.2",
+    "express": "^4.13.4",
+    "istanbul": "^0.4.3",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-mocha": "^0.2.2",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-webpack": "^1.7.0",
+    "karma": "^0.13.22",
+    "mocha": "^2.4.5",
+    "standard": "^6.0.8",
+    "webpack": "^1.12.14"
+  },
+  "dependencies": {
+  }
+}
