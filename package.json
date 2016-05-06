@@ -1,7 +1,7 @@
 {
-  "name": "append-script",
-  "description": "Reliably append scripts to pages and execute callbacks once evaluated",
+  "name": "fetch-js",
   "version": "1.0.0",
+  "description": "Reliably fetch scripts and execute callbacks once evaluated",
   "main": "index.js",
   "directories": {
     "test": "test"

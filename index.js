@@ -1,4 +1,4 @@
-module.exports = function appendScript (url, cb) {
+module.exports = function fetchJs (url, cb) {
   var el = document.createElement('script')
   var loaded
   el.type = 'text\/javascript'
