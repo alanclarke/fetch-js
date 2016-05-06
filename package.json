@@ -1,6 +1,6 @@
 {
   "name": "fetch-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reliably fetch scripts and execute callbacks once evaluated",
   "main": "index.js",
   "directories": {
