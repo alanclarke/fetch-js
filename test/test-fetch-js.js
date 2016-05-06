@@ -2,7 +2,7 @@
 var expect = require('expect.js')
 var fetchJs = require('../index')
 
-describe('append-script', function () {
+describe('fetch-js', function () {
   var serverUrl = '//' + window.location.hostname + ':' + '7788'
   beforeEach(function () {
     window.hello = undefined
