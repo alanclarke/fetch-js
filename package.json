@@ -9,11 +9,7 @@
   "scripts": {
     "test": "make test"
   },
-  "author": {
-    "name": "Alan Clarke",
-    "email": "alan@qubit.com",
-    "url": "qubit.com"
-  },
+  "author": "Alan Clarke <alan@qubit.com> (qubit.com)",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/QubitProducts/fetch-js.git"
@@ -35,5 +31,13 @@
     "standard": "^6.0.8",
     "webpack": "^1.12.14"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/QubitProducts/fetch-js/issues"
+  },
+  "homepage": "https://github.com/QubitProducts/fetch-js#readme",
+  "keywords": [
+    "fetch js",
+    "script loader"
+  ]
 }
